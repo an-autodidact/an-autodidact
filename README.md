@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/autodidact8jha" target="blank"><img src="https://img.shields.io/twitter/follow/autodidact8jha?logo=twitter&style=for-the-badge" alt="autodidact8jha" /></a> </p>
 
-- 🔭 I’m currently working on: Frontend Mastery - A platform to teach and share knowledge about modern frontend development techniques. [It is a comprehensive learning platform designed to simplify modern frontend technologies like React, Vue, and GSAP through tutorials, challenges, and interactive examples.](https://frontendmastery.com/)
+- 🔭 I’m currently working on: DashMorph, a tool for creating dynamic, customizable dashboards using React, D3.js, and Tailwind CSS.
 
-- 🌱 I’m currently learning **Frameworks: Next.js, Svelte, and Angular Courses: Advanced React Patterns, Web Performance Optimization, and Mastering TypeScript Topics: Progressive Web Apps (PWAs), Server-Side Rendering (SSR), and Micro-Frontend Architecture**
+- 🌱 I’m currently learning Next.js, Svelte, Angular, Advanced React Patterns, Web Performance Optimization, TypeScript, PWAs, SSR, Micro-Frontend Architecture.
+- 👯 I’m looking to collaborate on:Web Animation Toolkit for smooth, interactive animations using GSAP. 
 
-- 👯 I’m looking to collaborate on: Web Animation Toolkit - A toolkit to simplify creating smooth, interactive animations for modern web applications using GSAP. [it's a toolkit to simplify creating smooth, interactive animations for modern web applications using GSAP.](https://github.com/an-autodidact/web-animation-toolkit)
-
-- 🤝 I’m looking for help with: Interactive Dashboard Builder - A project aimed at creating dynamic, customizable dashboards using React, D3.js, and Tailwind CSS. Contributions are welcome for data visualization features and performance optimizations. [DashMorph...A powerful and flexible tool for creating dynamic, customizable dashboards using modern frontend technologies like React, D3.js, and Tailwind CSS.](https://github.com/A4smi/interactive-dashboard-builder)
+- 🤝 I’m looking for help with: Interactive Dashboard Builder - DashMorph is a tool for building dynamic, customizable dashboards with React, D3.js, and Tailwind CSS. Contributions for data visualization and performance improvements are welcome.
 
 - 👨‍💻 All of my projects are available at [👨‍💻 All of my projects are available at: GitHub - an-autodidact](👨‍💻 All of my projects are available at: GitHub - an-autodidact)
 
