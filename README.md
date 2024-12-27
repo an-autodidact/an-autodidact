@@ -9,18 +9,18 @@
 
 - 🔭 I’m currently working on: DashMorph, a tool for creating dynamic, customizable dashboards using React, D3.js, and Tailwind CSS.
 
-- 🌱 I’m currently learning Next.js, Svelte, Angular, Advanced React Patterns, Web Performance Optimization, TypeScript, PWAs, SSR, Micro-Frontend Architecture.
+- 🌱 I’m currently learning:  Next.js, Svelte, Angular, Advanced React Patterns, Web Performance Optimization, TypeScript, PWAs, SSR, Micro-Frontend Architecture.
 - 👯 I’m looking to collaborate on:Web Animation Toolkit for smooth, interactive animations using GSAP. 
 
 - 🤝 I’m looking for help with: Interactive Dashboard Builder - DashMorph is a tool for building dynamic, customizable dashboards with React, D3.js, and Tailwind CSS. Contributions for data visualization and performance improvements are welcome.
 
-- 👨‍💻 All of my projects are available at [👨‍💻 All of my projects are available at: GitHub - an-autodidact](👨‍💻 All of my projects are available at: GitHub - an-autodidact)
+- [👨‍💻 All of my projects are available at: GitHub - an-autodidact]
 
-- 💬 Ask me about **Advanced React and Vue.js development, including state management, component architecture, and performance optimization..**
+- 💬 Ask me about Advanced React and Vue.js development, including state management, component architecture, and performance optimization..
 
-- 📫 How to reach me **angz2didact@gmail.com**
+- 📫 How to reach me  angz2didact@gmail.com
 
-- ⚡ Fun fact **I once wrote an entire feature before realizing I was using the wrong programming language... and it still worked! 😅🚀**
+- ⚡ Fun fact I once wrote an entire feature before realizing I was using the wrong programming language... and it still worked! 😅🚀
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
